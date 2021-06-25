@@ -13,10 +13,13 @@ A credit is not mandatory, but appreciated. :)
 Product Information:
 
 Category- Open Source & FOSS
+
 Owner- Bedanta Dey / Ocsire
+
 Built in- Python
 
 Use PRG to randomize passwords and use them wherever you want! Make sure to remember them though <3
+
 Please do not enter comically large numbers like 123123 or 6942091121 when asked for password length.
 
 (c) PRG PassRanGen
